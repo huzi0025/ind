@@ -1,643 +1,175 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/JFIF/jfif-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JFIF/jfif-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-bmp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/TIFF/tiff-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/APNG/apng-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PJP/pjp-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/BMP/bmp-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPEG/jpeg-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPEG/jpeg-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPEG/jpeg-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPEG/jpeg-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPEG/jpeg-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PNG/png-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PNG/png-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PNG/png-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PNG/png-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/PNG/png-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/JPG/jpg-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/SVGZ/svgz-to-webp.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/WEBP/webp-to-ico.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/WEBP/webp-to-jpeg.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/WEBP/webp-to-pdf.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/WEBP/webp-to-png.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/WEBP/webp-to-tiff.html</loc>
-    <lastmod>2025-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/sitemap.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-png.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-tiff.html</loc>
+    <loc>https://ind.histream.me/seos/Z/heif/heif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/avif/avif-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/ico/ico-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/ico/ico-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/ico/ico-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/ico/ico-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-png.html</loc>
+    <loc>https://ind.histream.me/seos/Z/ico/ico-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-tiff.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/dib/dib-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-png.html</loc>
+    <loc>https://ind.histream.me/seos/Z/pjpeg/pjpeg-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-tiff.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/GIF/gif-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-png.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-tiff.html</loc>
+    <loc>https://ind.histream.me/seos/Z/svg/svg-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/HEIC/heic-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-png.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-tiff.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/heif/heif-to-webp.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/ico/ico-to-jpeg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/ico/ico-to-pdf.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/ico/ico-to-png.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/ico/ico-to-tiff.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/ico/ico-to-webp.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-ico.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-jpeg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-pdf.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-png.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-tiff.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/pjpeg/pjpeg-to-webp.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-ico.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-jpeg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-pdf.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-pdf.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-png.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-tiff.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/svg/svg-to-webp.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-ico.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-jpeg.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-pdf.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-png.html</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     tiff
     
@@ -645,1645 +177,1645 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/tif/tif-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/tif/tif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-ico.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-pdf.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-png.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-tiff.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/xbm/xbm-to-webp.html</loc>
+    <loc>https://ind.histream.me/seos/Z/xbm/xbm-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/time-calculator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/time-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/keywords/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/keywords/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/amp-page-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/amp-page-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/amp-validater-ui/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/amp-validater-ui/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/backlink-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/backlink-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/base64-encoder-decoder/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/base64-encoder-decoder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/bounce-rate-estimater/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/bounce-rate-estimater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/bounce-rate-calculator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/bounce-rate-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/borken-ssl-ui/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/borken-ssl-ui/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/brokenlink-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/brokenlink-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/browser-info-viewer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/browser-info-viewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/cache-header-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/cache-header-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/cdn-switch/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/cdn-switch/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/character-counter/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/character-counter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/code-formater/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/code-formater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/color-contrast-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/color-contrast-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/color-picker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/color-picker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/compression-estimator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/compression-estimator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/conical-url-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/conical-url-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/conversion-rate-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/conversion-rate-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/cookie-consent-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/cookie-consent-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/csp-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/csp-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/css-extractor/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/css-extractor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/css-minifier/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/css-minifier/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/cta-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/cta-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/dns-lookup/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/dns-lookup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/dom-size-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/dom-size-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/domain-age-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/domain-age-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/event-tracking/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/event-tracking/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/favicon-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/favicon-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/feedback-collector/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/feedback-collector/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/font-optimization/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/font-optimization/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/font-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/font-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/ga4-setup/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/ga4-setup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/generatortool/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/generatortool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/graph-tag-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/graph-tag-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/gtm-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/gtm-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/header-preview/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/header-preview/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/header-previewer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/header-previewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/heatmap-visualizer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/heatmap-visualizer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/html-entity-convertor/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/html-entity-convertor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/html-minifer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/html-minifer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/html-validater/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/html-validater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/hts/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/hts/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/redirect-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/redirect-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/image-graph-previewer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/image-graph-previewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/image-optimizer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/image-optimizer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/image-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/image-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/image-title-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/image-title-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/image-towebp/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/image-towebp/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/inline-css-convertor/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/inline-css-convertor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/ip-lookup/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/ip-lookup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/js-minifier/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/js-minifier/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/json-ld-formatter/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/json-ld-formatter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/lazy-load/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/lazy-load/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/lazy-load-test/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/lazy-load-test/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/link-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/link-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/link-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/link-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/link-shortner/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/link-shortner/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/linkcounter-tool/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/linkcounter-tool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/lsi-keyword/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/lsi-keyword/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/meta-description/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/meta-description/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/meta-tag-extracter/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/meta-tag-extracter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/mobile-friendliness-checklist/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/mobile-friendliness-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/mobile-speed-estimater/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/mobile-speed-estimater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/mobile-ui-audit/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/mobile-ui-audit/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/outbound-link-tracker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/outbound-link-tracker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/page-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/page-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/qr-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/qr-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/readability-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/readability-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/responsive-breakpoint-tester/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/responsive-breakpoint-tester/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/responsive-image-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/responsive-image-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/robots-noindex-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/robots-noindex-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/robots.txt-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/robots.txt-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/robots.txt-tester/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/robots.txt-tester/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/schema-markup-validator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/schema-markup-validator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/scroll-depth-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/scroll-depth-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/secure-headers-checklist/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/secure-headers-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/serp-preview/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/serp-preview/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/session-duration-calculator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/session-duration-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/session-replay/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/session-replay/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/sitemap.xml-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/sitemap.xml-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/slug-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/slug-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/ssl-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/ssl-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/stop-word-remover/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/stop-word-remover/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/structured-data/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/structured-data/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/subdomain-finder/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/subdomain-finder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/target-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/target-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/test-split/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/test-split/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/text-analyzer-tool/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/text-analyzer-tool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/text-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/text-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/title-tag-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/title-tag-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/tracking-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/tracking-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/traffic-source/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/traffic-source/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/twiter-card/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/twiter-card/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/url-encoder-decoder/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/url-encoder-decoder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/utm-link/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/utm-link/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/UTM-link-builder/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/UTM-link-builder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/ux-audit-checklist/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/ux-audit-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/ux-progress/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/ux-progress/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/viewport-meta-tag-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/viewport-meta-tag-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/web-crawl-simulator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/web-crawl-simulator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/web-screenshot-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/web-screenshot-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/web-status-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/web-status-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/website-down-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/website-down-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/whois-checker/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/whois-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/word-counter/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/word-counter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/W/-Tools/xframe-options-generator/index.html</loc>
+    <loc>https://ind.histream.me/seos/Z/-Tools/xframe-options-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/about/about.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/about/about.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/about/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/about/index.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/auther/auther.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/auther/auther.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/privacy-policy/privacypolicy.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/privacy-policy/privacypolicy.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/privacy-policy/index.htmly.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/privacy-policy/index.htmly.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-mkv.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-mkv.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-mp4.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-mp4.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-wav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-wav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/avi-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/avi-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-avi.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-avi.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-mkv.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-mkv.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-mp4.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-mp4.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-wav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-wav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/flv-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/flv-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/meta-tags.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/meta-tags.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-avi.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-avi.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-mp4.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-mp4.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-wav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-wav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mkv-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mkv-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mov-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mov-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mov-to-mkv.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mov-to-mkv.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mov-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mov-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mov-to-mp4.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mov-to-mp4.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mov-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mov-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-avi.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-avi.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-FLV.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-FLV.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-mav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-mav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-mkv.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-mkv.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-wav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-wav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/mp4-to-wmv.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/mp4-to-wmv.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/video-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/video-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-avi.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-avi.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-gif.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-gif.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-mp3.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-mp3.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-mp4.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-mp4.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-wav.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-wav.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tools/wmv-to-webm.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tools/wmv-to-webm.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-bmp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-bmp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JFIF/jfif-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JFIF/jfif-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-bmp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-bmp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/TIFF/tiff-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/TIFF/tiff-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/APNG/apng-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/APNG/apng-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PJP/pjp-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PJP/pjp-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/BMP/bmp-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/BMP/bmp-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPEG/jpeg-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPEG/jpeg-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPEG/jpeg-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPEG/jpeg-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPEG/jpeg-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPEG/jpeg-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPEG/jpeg-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPEG/jpeg-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPEG/jpeg-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPEG/jpeg-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PNG/png-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PNG/png-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PNG/png-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PNG/png-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PNG/png-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PNG/png-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PNG/png-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PNG/png-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/PNG/png-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/PNG/png-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/JPG/jpg-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/JPG/jpg-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/SVGZ/svgz-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/SVGZ/svgz-to-webp.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/WEBP/webp-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/WEBP/webp-to-ico.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/WEBP/webp-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/WEBP/webp-to-jpeg.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/WEBP/webp-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/WEBP/webp-to-pdf.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/WEBP/webp-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/WEBP/webp-to-png.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/WEBP/webp-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/WEBP/webp-to-tiff.html</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/sitemap.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/sitemap.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/avif/avif-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/avif/avif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/dib/dib-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/dib/dib-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/GIF/gif-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/GIF/gif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/HEIC/heic-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/HEIC/heic-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/heif/heif-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/heif/heif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/ico/ico-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/ico/ico-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/ico/ico-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/ico/ico-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/ico/ico-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/ico/ico-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/ico/ico-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/ico/ico-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/ico/ico-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/ico/ico-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/pjpeg/pjpeg-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/pjpeg/pjpeg-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/svg/svg-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/svg/svg-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     tiff
     
@@ -2291,717 +1823,1185 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/tif/tif-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/tif/tif-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-ico.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-ico.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-jpeg.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-jpeg.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-pdf.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-pdf.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-png.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-png.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-tiff.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-tiff.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/xbm/xbm-to-webp.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/xbm/xbm-to-webp.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/time-calculator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/time-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/keywords/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/keywords/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/amp-page-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/amp-page-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/amp-validater-ui/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/amp-validater-ui/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/backlink-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/backlink-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/base64-encoder-decoder/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/base64-encoder-decoder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/bounce-rate-estimater/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/bounce-rate-estimater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/bounce-rate-calculator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/bounce-rate-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/borken-ssl-ui/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/borken-ssl-ui/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/brokenlink-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/brokenlink-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/browser-info-viewer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/browser-info-viewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/cache-header-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/cache-header-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/cdn-switch/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/cdn-switch/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/character-counter/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/character-counter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/code-formater/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/code-formater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/color-contrast-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/color-contrast-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/color-picker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/color-picker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/compression-estimator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/compression-estimator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/conical-url-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/conical-url-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/conversion-rate-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/conversion-rate-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/cookie-consent-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/cookie-consent-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/csp-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/csp-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/css-extractor/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/css-extractor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/css-minifier/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/css-minifier/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/cta-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/cta-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/dns-lookup/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/dns-lookup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/dom-size-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/dom-size-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/domain-age-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/domain-age-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/event-tracking/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/event-tracking/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/favicon-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/favicon-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/feedback-collector/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/feedback-collector/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/font-optimization/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/font-optimization/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/font-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/font-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/ga4-setup/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/ga4-setup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/generatortool/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/generatortool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/graph-tag-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/graph-tag-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/gtm-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/gtm-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/header-preview/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/header-preview/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/header-previewer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/header-previewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/heatmap-visualizer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/heatmap-visualizer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/html-entity-convertor/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/html-entity-convertor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/html-minifer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/html-minifer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/html-validater/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/html-validater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/hts/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/hts/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/redirect-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/redirect-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/image-graph-previewer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/image-graph-previewer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/image-optimizer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/image-optimizer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/image-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/image-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/image-title-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/image-title-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/image-towebp/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/image-towebp/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/inline-css-convertor/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/inline-css-convertor/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/ip-lookup/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/ip-lookup/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/js-minifier/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/js-minifier/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/json-ld-formatter/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/json-ld-formatter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/lazy-load/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/lazy-load/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/lazy-load-test/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/lazy-load-test/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/link-analyzer/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/link-analyzer/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/link-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/link-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/link-shortner/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/link-shortner/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/linkcounter-tool/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/linkcounter-tool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/lsi-keyword/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/lsi-keyword/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/meta-description/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/meta-description/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/meta-tag-extracter/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/meta-tag-extracter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/mobile-friendliness-checklist/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/mobile-friendliness-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/mobile-speed-estimater/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/mobile-speed-estimater/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/mobile-ui-audit/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/mobile-ui-audit/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/outbound-link-tracker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/outbound-link-tracker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/page-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/page-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/qr-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/qr-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/readability-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/readability-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/responsive-breakpoint-tester/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/responsive-breakpoint-tester/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/responsive-image-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/responsive-image-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/robots-noindex-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/robots-noindex-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/robots.txt-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/robots.txt-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/robots.txt-tester/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/robots.txt-tester/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/schema-markup-validator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/schema-markup-validator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/scroll-depth-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/scroll-depth-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/secure-headers-checklist/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/secure-headers-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/serp-preview/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/serp-preview/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/session-duration-calculator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/session-duration-calculator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/session-replay/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/session-replay/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/sitemap.xml-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/sitemap.xml-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/slug-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/slug-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/ssl-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/ssl-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/stop-word-remover/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/stop-word-remover/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/structured-data/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/structured-data/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/subdomain-finder/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/subdomain-finder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/target-size-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/target-size-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/test-split/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/test-split/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/text-analyzer-tool/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/text-analyzer-tool/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/text-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/text-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/title-tag-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/title-tag-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/tracking-code-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/tracking-code-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/traffic-source/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/traffic-source/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/twiter-card/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/twiter-card/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/url-encoder-decoder/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/url-encoder-decoder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/utm-link/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/utm-link/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/UTM-link-builder/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/UTM-link-builder/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/ux-audit-checklist/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/ux-audit-checklist/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/ux-progress/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/ux-progress/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/viewport-meta-tag-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/viewport-meta-tag-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/web-crawl-simulator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/web-crawl-simulator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/web-screenshot-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/web-screenshot-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/web-status-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/web-status-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/website-down-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/website-down-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/whois-checker/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/whois-checker/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/word-counter/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/word-counter/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/X/-Tools/xframe-options-generator/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/Q/-Tools/xframe-options-generator/index.html</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/Y/</loc>
+    <loc>https://ind.histream.me/toolsseos/R/</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/Y/tools.html</loc>
+    <loc>https://ind.histream.me/toolsseos/R/tools.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/Y/about/about.html</loc>
+    <loc>https://ind.histream.me/toolsseos/R/about/about.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ind.histream.me/free/freetools/Y/about/index.html</loc>
+    <loc>https://ind.histream.me/toolsseos/R/about/index.html</loc>
     <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/auther/auther.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/privacy-policy/privacypolicy.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/privacy-policy/index.htmly.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-mkv.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-mp4.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-wav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/avi-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-avi.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-mkv.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-mp4.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-wav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/flv-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/meta-tags.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-avi.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-mp4.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-wav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mkv-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mov-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mov-to-mkv.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mov-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mov-to-mp4.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mov-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-avi.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-FLV.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-mav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-mkv.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-wav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/mp4-to-wmv.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/video-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-avi.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-gif.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-mp3.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-mp4.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-wav.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/tools/wmv-to-webm.html</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-bmp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-jpeg.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JFIF/jfif-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-bmp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-jpeg.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/TIFF/tiff-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-jpeg.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-tiff.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/APNG/apng-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-jpeg.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-tiff.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/PJP/pjp-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-jpeg.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-tiff.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/BMP/bmp-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JPEG/jpeg-to-webp.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JPEG/jpeg-to-ico.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JPEG/jpeg-to-pdf.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ind.histream.me/toolsseos/R/JPEG/jpeg-to-png.html</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
